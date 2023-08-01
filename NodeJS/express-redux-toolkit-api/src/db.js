@@ -1,0 +1,24 @@
+const recipes = [
+	{
+		id: 1,
+		name: 'Meatballs',
+		image: 'https://loveincorporated.blob.core.windows.net/contentimages/gallery/d9e900e4-212e-4c3d-96d5-cb14a023c659-worlds-most-delicious-dishes.jpg'
+	},
+	{
+		id: 2,
+		name: 'Khinkalli',
+		image: 'https://assets.vogue.com/photos/63d169f727f1d528635b4287/master/w_2560%2Cc_limit/GettyImages-1292563627.jpg'
+	},
+	{
+		id: 3,
+		name: 'Borsch',
+		image: 'https://images.everydayhealth.com/images/healthy-dishes-to-order-at-indian-restaurants-1440x810.jpg'
+	},
+	{
+		id: 4,
+		name: 'Salat',
+		image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc1wpXB42tupTQUdiGdpbpL0D6Lz7pZfP9g&usqp=CAU'
+	}
+]
+
+module.exports = recipes

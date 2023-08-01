@@ -1,0 +1,10 @@
+.item {
+	background: #363636;
+	border-radius: 15px;
+	margin: 10px;
+	padding: 10px;
+}
+
+.item h2 {
+	margin-bottom: 5px;
+}
