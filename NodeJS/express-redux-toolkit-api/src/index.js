@@ -4,7 +4,7 @@ const cors = require('cors')
 const app = express()
 const PORT = 3000
 
-app.use(cors())
+// app.use(cors())
 app.use(express.json())
 
 //create a get endpoint for /api/recipes to get recipes
